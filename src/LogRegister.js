@@ -20,7 +20,9 @@ export default class LogRegister extends Component {
 
   handleLogInSubmit = event => {
     event.preventDefault();
-       
+
+
+
        //wysłać dane na serwer przy pomocy get (login i hasło) i na serwerze pobieram usera z danych i sprawdzam czy login i hasło sa poprawne
        
 
